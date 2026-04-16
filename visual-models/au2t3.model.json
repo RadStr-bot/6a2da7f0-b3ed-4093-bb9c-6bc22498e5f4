@@ -1,0 +1,309 @@
+{
+  "identifier": "ca3f4591-ce59-4a4f-b19e-1efc901c75bb",
+  "version": 1,
+  "type": "http://dataspecer.com/resources/local/visual-model",
+  "entities": [
+    {
+      "type": [
+        "http://dataspecer.com/resources/local/visual-model"
+      ],
+      "representedModel": "303cc1c7-90a6-4295-950a-03f2a33c61d7",
+      "color": "#1effbc",
+      "identifier": "oux21"
+    },
+    {
+      "identifier": "ca3f4591-ce59-4a4f-b19e-1efc901c75bb-model-metadata-entity",
+      "type": [
+        "entity-model-type"
+      ],
+      "label": {
+        "en": "Dataset series",
+        "cs": "Série datových sad"
+      }
+    },
+    {
+      "model": "303cc1c7-90a6-4295-950a-03f2a33c61d7",
+      "representedEntity": "3h5ot9sxzkqm7u7lvnh",
+      "position": {
+        "x": 810,
+        "y": 340,
+        "anchored": null
+      },
+      "content": [
+        "iiaqw6zrjnrmjrabq90",
+        "bkfbfdwn4gimjradn96",
+        "x066mn12ipmmjrangmw",
+        "try6ed9gcssmjrb5ue9",
+        "10b8sx5t473mjrb1j6d",
+        "qlcolmxze2emk2f1aus"
+      ],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "dugak"
+    },
+    {
+      "model": "303cc1c7-90a6-4295-950a-03f2a33c61d7",
+      "representedEntity": "gkm4tfmrz0om7u7p4go",
+      "position": {
+        "x": 260,
+        "y": 360,
+        "anchored": null
+      },
+      "content": [
+        "2r7pg6aiokqm7uoayx9",
+        "jcnotqz010lm7uoc79w"
+      ],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "o6mcp"
+    },
+    {
+      "model": "303cc1c7-90a6-4295-950a-03f2a33c61d7",
+      "representedRelationship": "tgzz6nzmn7rmjrali2x",
+      "waypoints": [],
+      "visualSource": "dugak",
+      "visualTarget": "o6mcp",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "8v8lu"
+    },
+    {
+      "model": "303cc1c7-90a6-4295-950a-03f2a33c61d7",
+      "representedEntity": "5sls2er0m5om7u7yfa4",
+      "position": {
+        "x": 950,
+        "y": 110,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "zz2w3"
+    },
+    {
+      "model": "303cc1c7-90a6-4295-950a-03f2a33c61d7",
+      "representedRelationship": "u5e9bned06omjrahewj",
+      "waypoints": [],
+      "visualSource": "dugak",
+      "visualTarget": "zz2w3",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "m3jeh"
+    },
+    {
+      "model": "303cc1c7-90a6-4295-950a-03f2a33c61d7",
+      "representedEntity": "1bg2hka8bq5m7u9bb71",
+      "position": {
+        "x": 720,
+        "y": 680,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "2sbsk"
+    },
+    {
+      "model": "303cc1c7-90a6-4295-950a-03f2a33c61d7",
+      "representedEntity": "xyqva89nkccm7u82ag4",
+      "position": {
+        "x": 1400,
+        "y": 460,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "mn56p"
+    },
+    {
+      "model": "303cc1c7-90a6-4295-950a-03f2a33c61d7",
+      "representedRelationship": "t35b2hwcnlmjrafzlk",
+      "waypoints": [],
+      "visualSource": "dugak",
+      "visualTarget": "mn56p",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "xldcy"
+    },
+    {
+      "model": "303cc1c7-90a6-4295-950a-03f2a33c61d7",
+      "representedEntity": "fvkrls9k6xem7u8gn3g",
+      "position": {
+        "x": 700,
+        "y": 110,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "8xvdz"
+    },
+    {
+      "model": "303cc1c7-90a6-4295-950a-03f2a33c61d7",
+      "representedRelationship": "x066mn12ipmmjrangmw",
+      "waypoints": [],
+      "visualSource": "dugak",
+      "visualTarget": "8xvdz",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "iecls"
+    },
+    {
+      "model": "303cc1c7-90a6-4295-950a-03f2a33c61d7",
+      "representedEntity": "m0nww7z10km7u80yeq",
+      "position": {
+        "x": 1400,
+        "y": 340,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "rplg9f"
+    },
+    {
+      "model": "303cc1c7-90a6-4295-950a-03f2a33c61d7",
+      "representedRelationship": "u1pytwxf8tnmjrb4u3f",
+      "waypoints": [],
+      "visualSource": "dugak",
+      "visualTarget": "rplg9f",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "9j6"
+    },
+    {
+      "model": "303cc1c7-90a6-4295-950a-03f2a33c61d7",
+      "representedEntity": "uknbmwjs5hjm7u7qoke",
+      "position": {
+        "x": 260,
+        "y": 520,
+        "anchored": null
+      },
+      "content": [
+        "c4l49vlqqjrm7uo76ki",
+        "29fcvws215mm7uo7ode"
+      ],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "9qfd5"
+    },
+    {
+      "model": "303cc1c7-90a6-4295-950a-03f2a33c61d7",
+      "representedRelationship": "gdalb6tofrmjrap3la",
+      "waypoints": [],
+      "visualSource": "dugak",
+      "visualTarget": "9qfd5",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "zmijg"
+    },
+    {
+      "model": "303cc1c7-90a6-4295-950a-03f2a33c61d7",
+      "representedRelationship": "i348r4pho0bmjrbgasq",
+      "waypoints": [],
+      "visualSource": "dugak",
+      "visualTarget": "2sbsk",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "f2csf"
+    },
+    {
+      "model": "303cc1c7-90a6-4295-950a-03f2a33c61d7",
+      "representedEntity": "mixm9ri8z2m7u7xhnx",
+      "position": {
+        "x": 990,
+        "y": 770,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "2urb6"
+    },
+    {
+      "model": "303cc1c7-90a6-4295-950a-03f2a33c61d7",
+      "representedRelationship": "mi4b29ye5nmjrajwz2",
+      "waypoints": [],
+      "visualSource": "dugak",
+      "visualTarget": "2urb6",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "iiyj4"
+    },
+    {
+      "model": "303cc1c7-90a6-4295-950a-03f2a33c61d7",
+      "representedEntity": "dk4mecf8m4am7u80l0n",
+      "position": {
+        "x": 1400,
+        "y": 170,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "k2ucdh"
+    },
+    {
+      "model": "303cc1c7-90a6-4295-950a-03f2a33c61d7",
+      "representedRelationship": "puefa92ajpjmjrbjis7",
+      "waypoints": [],
+      "visualSource": "dugak",
+      "visualTarget": "k2ucdh",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "eh6n9"
+    },
+    {
+      "model": "303cc1c7-90a6-4295-950a-03f2a33c61d7",
+      "representedRelationship": "e45jz7uzz98mjrb36jr",
+      "waypoints": [
+        {
+          "x": 630,
+          "y": 350,
+          "anchored": null
+        },
+        {
+          "x": 630,
+          "y": 380,
+          "anchored": null
+        }
+      ],
+      "visualSource": "dugak",
+      "visualTarget": "dugak",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "rh65a"
+    }
+  ]
+}

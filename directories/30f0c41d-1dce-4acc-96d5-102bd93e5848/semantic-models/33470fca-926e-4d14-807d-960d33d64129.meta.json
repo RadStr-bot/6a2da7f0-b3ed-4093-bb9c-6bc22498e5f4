@@ -1,0 +1,21 @@
+{
+  "iri": "257d51a6-450b-45c3-bb40-33c54d30038b",
+  "projectIri": "33470fca-926e-4d14-807d-960d33d64129",
+  "types": [
+    "http://dataspecer.com/resources/local/semantic-model"
+  ],
+  "userMetadata": {
+    "label": {
+      "cs": "DCAT-AP-CZ - podmínky užití",
+      "en": "DCAT-AP-CZ - terms of use"
+    },
+    "documentBaseUrl": "https://ofn.gov.cz/dcat-ap-cz-podmínky-užití/2025-08-12/"
+  },
+  "metadata": {
+    "creationDate": "2026-04-16T20:35:46.761Z",
+    "modificationDate": "2026-04-16T20:41:30.227Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}

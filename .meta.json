@@ -1,0 +1,21 @@
+{
+  "iri": "6a2da7f0-b3ed-4093-bb9c-6bc22498e5f4",
+  "projectIri": "6a2da7f0-b3ed-4093-bb9c-6bc22498e5f4",
+  "types": [
+    "http://dataspecer.com/resources/local/package"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "DCAT-AP-CZ: Basic data model for data catalogs",
+      "cs": "DCAT-AP-CZ: Základní datový model pro katalogy dat"
+    },
+    "description": {}
+  },
+  "metadata": {
+    "creationDate": "2026-04-16T20:35:43.227Z",
+    "modificationDate": "2026-04-16T20:41:30.459Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}

@@ -1,0 +1,23 @@
+{
+  "iri": "db1f3ea6-81ff-40c4-8988-6e8e6ffd5475",
+  "projectIri": "9209ea18-c416-4900-88e2-11c572efea55",
+  "types": [
+    "http://dataspecer.com/resources/local/package"
+  ],
+  "userMetadata": {
+    "label": {
+      "cs": "Výchozí aplikační profil DCAT 3",
+      "en": "DCAT 3 Default Application Profile"
+    },
+    "description": {},
+    "importedFromUrl": "https://mff-uk.github.io/specifications/dcat-dap/",
+    "documentBaseUrl": "https://mff-uk.github.io/specifications/dcat-dap/"
+  },
+  "metadata": {
+    "creationDate": "2026-04-16T20:35:44.432Z",
+    "modificationDate": "2026-04-16T20:41:30.195Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}

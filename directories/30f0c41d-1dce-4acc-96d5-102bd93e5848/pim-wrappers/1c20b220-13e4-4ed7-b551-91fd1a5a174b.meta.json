@@ -1,0 +1,20 @@
+{
+  "iri": "440a59ce-c08a-48d8-9f8b-1881e161550a",
+  "projectIri": "1c20b220-13e4-4ed7-b551-91fd1a5a174b",
+  "types": [
+    "https://dataspecer.com/core/model-descriptor/pim-store-wrapper"
+  ],
+  "userMetadata": {
+    "documentBaseUrl": "https://www.w3.org/ns/dcat3.ttl",
+    "label": {
+      "en": "dcat3"
+    }
+  },
+  "metadata": {
+    "creationDate": "2026-04-16T20:35:44.196Z",
+    "modificationDate": "2026-04-16T20:41:29.589Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}
